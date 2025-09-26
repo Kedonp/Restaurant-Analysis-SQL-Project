@@ -2,11 +2,11 @@
 This project analyzes customer behavior at Taste of the World Café, a restaurant with a diverse menu. Using SQL, I explored two datasets: Menu Items and Order Details, and combined them to uncover insights about menu performance and customer preferences.
 
 ## Files in this repo
-Customer Behavior Analysis.sql → sql script of customer behavior analysis
-Menu Items Exploration.sql → sql script of exploring the menu items table
-Order Details.sql → sql script of exploring the order details table
-Restaurant-Data-Files → folder including .csv files if data used
-README.md → this file
+- Customer Behavior Analysis.sql → sql script of customer behavior analysis
+- Menu Items Exploration.sql → sql script of exploring the menu items table
+- Order Details.sql → sql script of exploring the order details table
+- Restaurant-Data-Files → folder including .csv files if data used
+- README.md → this file
 
 ## Goals
 - Explore the Menu Items table to understand pricing and category trends.
