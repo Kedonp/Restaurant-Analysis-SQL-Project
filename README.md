@@ -1,2 +1,23 @@
 # Restaurant-Order-Analysis-SQL-Project
-In this project I analyzed customer data to understand which menu item are doing well / not well and which items are favorited.
+This project analyzes customer behavior at Taste of the World Café, a restaurant with a diverse menu. Using SQL, I explored two datasets: Menu Items and Order Details, and combined them to uncover insights about menu performance and customer preferences.
+
+## Files in this repo
+
+
+## Goals
+- Explore the Menu Items table to understand pricing and category trends.
+- Explore the Order Details table to figure out how many orders were made, how big they were, and when they happened.
+- Combine both tables to see how customers are reacting to different menu items.
+- Share insights that could help the café improve the menu and marketing strategies.
+
+## Tools
+- MySQL
+- MySQL Workbench
+
+  # Key Takeaways
+- The most expensive and least expensive items were easily identified.
+- Italian dishes stood out as some of the most popular items.
+- A few menu items brought in most of the revenue, showing where the café should focus.
+- Top-spending customers often placed large orders with multiple Italian dishes, which could be an opportunity for targeted promotions or bundle deals.
+
+
