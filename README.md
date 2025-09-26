@@ -5,7 +5,7 @@ This project analyzes customer behavior at Taste of the World Café, a restauran
 - Customer Behavior Analysis.sql → sql script of customer behavior analysis
 - Menu Items Exploration.sql → sql script of exploring the menu items table
 - Order Details.sql → sql script of exploring the order details table
-- Restaurant-Data-Files → folder including .csv files if data used
+- Restaurant-Data-Files → folder including .csv files of data used for this project
 - README.md → this file
 
 ## Goals
