@@ -62,6 +62,7 @@ FROM order_details od LEFT JOIN menu_items mi
 WHERE order_id IN (440, 2075, 1957, 330, 2675)
 GROUP BY 1, 2;
 
+--
 -- Insights gathered from 4 & 5: The highest spenders are mostly purchasing Italian foods.
-
+--
 
